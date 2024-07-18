@@ -1,0 +1,60 @@
+D:\Vasnie Progi\C# projects\Библиотека_классов_WCF\bin\Debug\Библиотека_классов_WCF.dll
+D:\Vasnie Progi\C# projects\Библиотека_классов_WCF\bin\Debug\Библиотека_классов_WCF.pdb
+D:\Vasnie Progi\C# projects\Библиотека_классов_WCF\bin\Debug\System.ServiceModel.Primitives.dll
+D:\Vasnie Progi\C# projects\Библиотека_классов_WCF\bin\Debug\System.ServiceModel.Primitives.pdb
+D:\Vasnie Progi\C# projects\Библиотека_классов_WCF\obj\Debug\Библиотека_классов_WCF.csproj.AssemblyReference.cache
+D:\Vasnie Progi\C# projects\Библиотека_классов_WCF\obj\Debug\Библиотека_классов_WCF.csproj.CoreCompileInputs.cache
+D:\Vasnie Progi\C# projects\Библиотека_классов_WCF\obj\Debug\Библиотека_классов_WCF.csproj.CopyComplete
+D:\Vasnie Progi\C# projects\Библиотека_классов_WCF\obj\Debug\Библиотека_классов_WCF.dll
+D:\Vasnie Progi\C# projects\Библиотека_классов_WCF\obj\Debug\Библиотека_классов_WCF.pdb
+D:\Vasnie Progi\C# projects\Библиотека_классов_WCF\bin\Debug\x86\sqlite3.dll
+D:\Vasnie Progi\C# projects\Библиотека_классов_WCF\bin\Debug\x64\sqlite3.dll
+D:\Vasnie Progi\C# projects\Библиотека_классов_WCF\bin\Debug\Библиотека_классов_WCF.dll.config
+D:\Vasnie Progi\C# projects\Библиотека_классов_WCF\bin\Debug\EntityFramework.dll
+D:\Vasnie Progi\C# projects\Библиотека_классов_WCF\bin\Debug\EntityFramework.SqlServer.dll
+D:\Vasnie Progi\C# projects\Библиотека_классов_WCF\bin\Debug\System.Data.SQLite.dll
+D:\Vasnie Progi\C# projects\Библиотека_классов_WCF\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Vasnie Progi\C# projects\Библиотека_классов_WCF\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Vasnie Progi\C# projects\Библиотека_классов_WCF\bin\Debug\EntityFramework.xml
+D:\Vasnie Progi\C# projects\Библиотека_классов_WCF\bin\Debug\EntityFramework.SqlServer.xml
+D:\Vasnie Progi\C# projects\Библиотека_классов_WCF\bin\Debug\System.Data.SQLite.xml
+C:\Vasnie Progi\C# Projects\Библиотека_классов_WCF\bin\Debug\x86\sqlite3.dll
+C:\Vasnie Progi\C# Projects\Библиотека_классов_WCF\bin\Debug\x64\sqlite3.dll
+C:\Vasnie Progi\C# Projects\Библиотека_классов_WCF\bin\Debug\Библиотека_классов_WCF.dll.config
+C:\Vasnie Progi\C# Projects\Библиотека_классов_WCF\bin\Debug\Библиотека_классов_WCF.dll
+C:\Vasnie Progi\C# Projects\Библиотека_классов_WCF\bin\Debug\Библиотека_классов_WCF.pdb
+C:\Vasnie Progi\C# Projects\Библиотека_классов_WCF\bin\Debug\EntityFramework.dll
+C:\Vasnie Progi\C# Projects\Библиотека_классов_WCF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Vasnie Progi\C# Projects\Библиотека_классов_WCF\bin\Debug\System.Data.SQLite.dll
+C:\Vasnie Progi\C# Projects\Библиотека_классов_WCF\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Vasnie Progi\C# Projects\Библиотека_классов_WCF\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Vasnie Progi\C# Projects\Библиотека_классов_WCF\bin\Debug\System.ServiceModel.Primitives.dll
+C:\Vasnie Progi\C# Projects\Библиотека_классов_WCF\bin\Debug\EntityFramework.xml
+C:\Vasnie Progi\C# Projects\Библиотека_классов_WCF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Vasnie Progi\C# Projects\Библиотека_классов_WCF\bin\Debug\System.Data.SQLite.xml
+C:\Vasnie Progi\C# Projects\Библиотека_классов_WCF\bin\Debug\System.ServiceModel.Primitives.pdb
+C:\Vasnie Progi\C# Projects\Библиотека_классов_WCF\obj\Debug\Библиотека_классов_WCF.csproj.AssemblyReference.cache
+C:\Vasnie Progi\C# Projects\Библиотека_классов_WCF\obj\Debug\Библиотека_классов_WCF.csproj.CoreCompileInputs.cache
+C:\Vasnie Progi\C# Projects\Библиотека_классов_WCF\obj\Debug\Библиотека_классов_WCF.csproj.CopyComplete
+C:\Vasnie Progi\C# Projects\Библиотека_классов_WCF\obj\Debug\Библиотека_классов_WCF.dll
+C:\Vasnie Progi\C# Projects\Библиотека_классов_WCF\obj\Debug\Библиотека_классов_WCF.pdb
+A:\wcf\Библиотека_классов_WCF\bin\Debug\x86\sqlite3.dll
+A:\wcf\Библиотека_классов_WCF\bin\Debug\x64\sqlite3.dll
+A:\wcf\Библиотека_классов_WCF\bin\Debug\Библиотека_классов_WCF.dll.config
+A:\wcf\Библиотека_классов_WCF\bin\Debug\Библиотека_классов_WCF.dll
+A:\wcf\Библиотека_классов_WCF\bin\Debug\Библиотека_классов_WCF.pdb
+A:\wcf\Библиотека_классов_WCF\bin\Debug\EntityFramework.dll
+A:\wcf\Библиотека_классов_WCF\bin\Debug\EntityFramework.SqlServer.dll
+A:\wcf\Библиотека_классов_WCF\bin\Debug\System.Data.SQLite.dll
+A:\wcf\Библиотека_классов_WCF\bin\Debug\System.Data.SQLite.EF6.dll
+A:\wcf\Библиотека_классов_WCF\bin\Debug\System.Data.SQLite.Linq.dll
+A:\wcf\Библиотека_классов_WCF\bin\Debug\System.ServiceModel.Primitives.dll
+A:\wcf\Библиотека_классов_WCF\bin\Debug\EntityFramework.xml
+A:\wcf\Библиотека_классов_WCF\bin\Debug\EntityFramework.SqlServer.xml
+A:\wcf\Библиотека_классов_WCF\bin\Debug\System.Data.SQLite.xml
+A:\wcf\Библиотека_классов_WCF\bin\Debug\System.ServiceModel.Primitives.pdb
+A:\wcf\Библиотека_классов_WCF\obj\Debug\Библиотека_классов_WCF.csproj.AssemblyReference.cache
+A:\wcf\Библиотека_классов_WCF\obj\Debug\Библиотека_классов_WCF.csproj.CoreCompileInputs.cache
+A:\wcf\Библиотека_классов_WCF\obj\Debug\Библиоте.BA5F9D50.Up2Date
+A:\wcf\Библиотека_классов_WCF\obj\Debug\Библиотека_классов_WCF.dll
+A:\wcf\Библиотека_классов_WCF\obj\Debug\Библиотека_классов_WCF.pdb
